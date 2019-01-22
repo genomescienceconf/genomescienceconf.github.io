@@ -6,7 +6,7 @@ use-site-title: true
 bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 ---
 
-# Genome Science 2019 : Organisers and Session Chairs
+# Organisers and Session Chairs
  
 * Aziz Aboobaker , University of Oxford
 * Kate Baker, University of Liverpool
