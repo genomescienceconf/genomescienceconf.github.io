@@ -8,4 +8,8 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # Genome Science 2019
 
+Genome science typically attracts 200-250 genomic researchers from around the world.
+
+If you would like to sponsor genome science, please contact [Phil Ellis](mailto:Philip.Ellis@ed.ac.uk)
+
 
