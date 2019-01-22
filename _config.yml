@@ -23,7 +23,7 @@ description: International conference on genomics and sequencing technologies
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index.html"
+  Home: "index"
   Keynote Speakers: "keynotes"
   Programme: "programme"
   Venue: "venue"
