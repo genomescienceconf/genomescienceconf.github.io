@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Programme
 subtitle: Programme for Genome Science 2019
 use-site-title: true
+bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 ---
 
 # Tuesday 3rd September 2019
