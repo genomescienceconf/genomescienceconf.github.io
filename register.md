@@ -8,4 +8,5 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # Genome Science 2019
 
+Registration will be open soon!
 
