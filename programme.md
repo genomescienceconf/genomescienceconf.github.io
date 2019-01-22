@@ -21,15 +21,15 @@ Sessions are planned in the following areas:
 
 ### Tuesday 3rd September 2019
 
-| Start | End   | What                   | Desc                  |
-|-------|-------|------------------------|-----------------------|
-| 11:00 | 12:45 | Registration and lunch |                       |
-| 12:45 | 14:30 | Keynotes 1 and 2       |                       |
-| 14:30 | 15:00 | Coffee                 |                       |
-| 15:00 | 16:30 | Session 1              | Evolving technologies |
-| 16:30 | 17:00 | Coffee                 |                       |
-| 17:00 | 18:00 | Session 2              | Evolving technologies |
-| 18:00 | 19:30 | Wine, snacks, posters  |                       |
+| Start | End   | What                   |
+|-------|-------|------------------------|
+| 11:00 | 12:45 | Registration and lunch |
+| 12:45 | 14:30 | Wendy Bickmore and keynote 2 |
+| 14:30 | 15:00 | Coffee                 |
+| 15:00 | 16:30 | Sequencing Technologies 1 |
+| 16:30 | 17:00 | Coffee                 |
+| 17:00 | 18:00 | Sequencing Technologies 2 |
+| 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
 
