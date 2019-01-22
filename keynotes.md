@@ -8,7 +8,7 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # Keynotes
 
-We are delighted to welcome our four keynote speakers, who are global leaders in their respective fields
+We are delighted to welcome our four keynote speakers, who are global leaders in their respective fields - here we announce our first two, Professor Wendy Bickmore and Professor Jane Carlton.
 
 ### Professor Wendy Bickmore
 ###### University of Edinburgh
