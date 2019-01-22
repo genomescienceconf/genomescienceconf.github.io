@@ -28,3 +28,13 @@ use-site-title: true
 | 14:15 | 16:00 | Developmental Biology       |       | 14:15 | 16:00 | Session 5B |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | Session 6A                  |       | 16:20 | 18:10 | Session 6B |
+
+Conference Dinner on the evening of Weds 4th
+
+### Thursday 5th September 2019
+
+| Start | End   | What             |
+|-------|-------|------------------|
+| 9:00  | 11:00 | Session 7A       |
+| 11:00 | 11:30 | Coffee           |
+| 11:30 | 13:30 | Keynotes 3 and 4 |
