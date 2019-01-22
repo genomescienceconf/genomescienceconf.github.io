@@ -19,7 +19,8 @@ use-site-title: true
 
 ### Wednesday 4th September 2019
 
-|Session A|     |                             |       |Session B|     |            |
+| Start | End   | What                        |       | Start | End   | What       |
+|-------|-------|-----------------------------|-------|-------|-------|------------|
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
 | 9:00  | 10:40 | Session 3A                  |       | 9:00  | 10:40 | Session 3B |
