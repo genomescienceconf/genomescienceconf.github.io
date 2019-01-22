@@ -6,6 +6,7 @@ use-site-title: true
 ---
 
 ### Tuesday 3rd September 2019
+
 | Start | End   | What                   | Desc                  |
 |-------|-------|------------------------|-----------------------|
 | 11:00 | 12:45 | Registration and lunch |                       |
@@ -17,7 +18,6 @@ use-site-title: true
 | 18:00 | 19:30 | Wine, snacks, posters  |                       |
 
 ### Wednesday 4th September 2019
-|Parallel Session A|                                  |Parallel Session B
 
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
