@@ -5,6 +5,20 @@ subtitle: Programme for Genome Science 2019
 use-site-title: true
 ---
 
+Sessions are planned in the following areas:
+
+* Sequencing technologies technologies
+* Microbial genomics (including eukaryotic microbes)
+* Microbial populations
+* Plant and animal genomics
+* Clinical genomics
+* Developmental biology
+* Single cell genomics
+* Evolutionary genomics
+* Bioinformatics/software
+* Genome Engineering
+
+
 ### Tuesday 3rd September 2019
 
 | Start | End   | What                   | Desc                  |
