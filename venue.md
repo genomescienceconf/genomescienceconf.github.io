@@ -20,6 +20,8 @@ Campus accomodation is available through Edinburgh First at a discount rate, and
 
 The conference dinner will be held at the historical [Ghillie Dhu](http://ghillie-dhu.co.uk/), in the centre of Edinburgh
 
+![Ghillie Dhu](http://genomescience.co.uk/images/detail_ghilliedhu-auditorium.jpg)
+
 Dinner includes:
 
 * 3 course dinner
