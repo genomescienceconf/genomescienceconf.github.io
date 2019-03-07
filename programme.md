@@ -23,12 +23,13 @@ Sessions are planned in the following areas:
 
 | Start | End   | What                   |
 |-------|-------|------------------------|
-| 11:00 | 12:45 | Registration and lunch |
-| 12:45 | 14:30 | Wendy Bickmore and keynote 2 |
+| 11:00 | 12:30 | Registration and lunch |
+| 12:30 | 13:30 | Keynote: Prof Wendy Bickmore |
+| 13:30 | 14:30 | Kaynote: Dr Sarah Teichmann |
 | 14:30 | 15:00 | Coffee                 |
-| 15:00 | 16:30 | Sequencing Technologies 1 |
+| 15:00 | 16:30 | Evolving Technologies 1 |
 | 16:30 | 17:00 | Coffee                 |
-| 17:00 | 18:00 | Sequencing Technologies 2 |
+| 17:00 | 18:00 | Evolving Technologies 2 |
 | 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
@@ -37,13 +38,13 @@ Parallel sessions A and B:
 
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
-| 9:00  | 10:40 | Session 3A                  |       | 9:00  | 10:40 | Session 3B |
+| 9:00  | 10:40 | Plant and animal genomics   |       | 9:00  | 10:40 | Evolutionary Genomics |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
-| 11:15 | 13:15 | Clinical genetics           |       | 11:15 | 13:15 | Session 4B |
+| 11:15 | 13:15 | Clinical Genomics           |       | 11:15 | 13:15 | Microbial Genomics |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
-| 14:15 | 16:00 | Developmental Biology       |       | 14:15 | 16:00 | Session 5B |
+| 14:15 | 16:00 | Developmental Biology       |       | 14:15 | 16:00 | Microbial Communities |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
-| 16:20 | 18:10 | Session 6A                  |       | 16:20 | 18:10 | Session 6B |
+| 16:20 | 18:10 | Bioinformatics & Software   |       | 16:20 | 18:10 | Genome Engineering |
 
 Conference Dinner on the evening of Weds 4th
 
@@ -51,6 +52,7 @@ Conference Dinner on the evening of Weds 4th
 
 | Start | End   | What             |
 |-------|-------|------------------|
-| 9:00  | 11:00 | Session 7A       |
+| 9:00  | 11:00 | Single Cell Genomics      |
 | 11:00 | 11:30 | Coffee           |
-| 11:30 | 13:30 | Keynotes 3 and 4 |
+| 11:30 | 12:30 | Keynote: Prof Jane Carlton |
+| 12:30 | 13:30 | Keynote: TBC
