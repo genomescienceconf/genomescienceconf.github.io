@@ -11,7 +11,6 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 * Mick Watson, The Roslin Institute and Edinburgh Genomics
 * Phil Ellis, Edinburgh Genomics
 * Liz Brown, University of Edinburgh
-
 * Aziz Aboobaker , University of Oxford
 * Kate Baker, University of Liverpool
 * Christine Hertz-Fowler, University of Liverpool
