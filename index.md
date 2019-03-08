@@ -12,7 +12,7 @@ bigimg: img/edinburgh.png
 
 ### [Register now](http://genomescience.co.uk/register/)
 
-[Genome Science 2019 is delighted to announce our amazing keynote speakers](http://genomescience.co.uk/keynotes/)
+Genome Science 2019 is delighted to announce our amazing keynote speakers
 * __Dr Sarah Teichmann, Wellcome Trust Sanger Institute__
 * __Professor Wendy Bickmore, Director of the MRC Human Genetics Unit__
 * __Professor Jane Carlton, NYU Center for Genomics and Systems Biology__
