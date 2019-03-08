@@ -10,6 +10,8 @@ bigimg: img/edinburgh.png
   
 ### Edinburgh, September 3rd to 5th, 2019
 
+### [Register now](http://genomescience.co.uk/register/)
+
 In 2019, Genome Science will be held in the historic and beautiful city of Edinburgh.  The conference continues to attract more than 250 delegates from academia, healthcare and industry with a focus on genomic technologies and genome science.
 
 This year the conference will again bring together scientists from around the world and from all backgrounds to share ideas, innovations and advances in the rapidly evolving field of high throughput sequencing technologies and -omics data analysis.
