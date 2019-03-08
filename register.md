@@ -8,6 +8,8 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # Genome Science 2019
 
+# [REGISTER HERE](https://www.efdelegates.ed.ac.uk/genomescience2019)
+
 There are different registration options - these are limited so sign up soon or they may run out!
 
 * Early Bird (£220) - Available until May 1st 2019, sign up soon
