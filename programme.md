@@ -38,13 +38,13 @@ Parallel sessions A and B:
 
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
-| 9:00  | 10:40 | Plant and animal genomics   |       | 9:00  | 10:40 | Evolutionary Genomics |
+| 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
-| 11:15 | 13:15 | Clinical Genomics           |       | 11:15 | 13:15 | Microbial Genomics |
+| 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbial Genomics__ |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
-| 14:15 | 16:00 | Developmental Biology       |       | 14:15 | 16:00 | Microbial Communities |
+| 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbial Communities__ |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
-| 16:20 | 18:10 | Bioinformatics & Software   |       | 16:20 | 18:10 | Genome Engineering |
+| 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
 
 Conference Dinner on the evening of Weds 4th
 
@@ -52,7 +52,7 @@ Conference Dinner on the evening of Weds 4th
 
 | Start | End   | What             |
 |-------|-------|------------------|
-| 9:00  | 11:00 | Single Cell Genomics      |
+| 9:00  | 11:00 | __Single Cell Genomics__      |
 | 11:00 | 11:30 | Coffee           |
-| 11:30 | 12:30 | Keynote: Prof Jane Carlton |
-| 12:30 | 13:30 | Keynote: TBC
+| 11:30 | 12:30 | __Keynote: Prof Jane Carlton__ |
+| 12:30 | 13:30 | __Keynote: TBC__
