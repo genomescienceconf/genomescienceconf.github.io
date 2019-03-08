@@ -24,12 +24,12 @@ Sessions are planned in the following areas:
 | Start | End   | What                   |
 |-------|-------|------------------------|
 | 11:00 | 12:30 | Registration and lunch |
-| 12:30 | 13:30 | _Keynote: Prof Wendy Bickmore_ |
-| 13:30 | 14:30 | _Kaynote: Dr Sarah Teichmann_ |
+| 12:30 | 13:30 | __Keynote: Prof Wendy Bickmore__ |
+| 13:30 | 14:30 | __Kaynote: Dr Sarah Teichmann__ |
 | 14:30 | 15:00 | Coffee                 |
-| 15:00 | 16:30 | _Evolving Technologies 1_ |
+| 15:00 | 16:30 | __Evolving Technologies 1__ |
 | 16:30 | 17:00 | Coffee                 |
-| 17:00 | 18:00 | _Evolving Technologies 2_ |
+| 17:00 | 18:00 | __Evolving Technologies 2__ |
 | 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
