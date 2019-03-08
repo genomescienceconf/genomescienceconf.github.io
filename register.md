@@ -19,5 +19,5 @@ All of the above packages include attendance for all three days, lunch and coffe
 
 Additional packages include:
 
-* [Campus accomodation]
-* [Conference Dinner]
+* Campus accomodation is £55 per night at [Chancellors Court](https://www.edinburghfirst.co.uk/accommodation/pollock-halls/chancellors-court-and-john-burnett/)
+* Conference Dinner is £60 at the [Ghillie Dhu](http://genomescience.co.uk/venue/#dinner)
