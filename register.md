@@ -8,5 +8,10 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # Genome Science 2019
 
-Registration will be open soon!
+There are different registration options - these are limited so sign up soon or they may run out!
+
+* Early Bird (£220) - Available until May 1st 2019, sign up soon
+* Student (£220) - We will require proof of status when you come to the conference - limited numbers!
+* Delegate (£280) - Our standard delegate rate. Reserved for academicsm, students, members of the public
+* Company (£400) - for attendees from commercial companies and exhibitors wishing to bring additional people - please contact [Mick Watson](mailto:mick.watson@roslin.ed.ac.uk) for a code
 
