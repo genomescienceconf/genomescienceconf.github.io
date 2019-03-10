@@ -20,7 +20,7 @@ Campus accomodation is available through Edinburgh First at a discount rate, and
 
 The conference dinner will be held at the historical [Ghillie Dhu](http://ghillie-dhu.co.uk/), in the centre of Edinburgh
 
-[A Ceilidh](https://www.youtube.com/watch?v=Kja2vP3MnZA) is a traditional Scottish dance with gaelic music - there will be aseries of dances and you will be shown the correct moves! It is very tradtional in Scotland and a lot of fun!
+[A Ceilidh](https://www.youtube.com/watch?v=Kja2vP3MnZA) is a traditional Scottish dance with gaelic music - there will be a series of dances and you will be shown the correct moves! It is very tradtional in Scotland and a lot of fun!
 
 ![Ghillie Dhu](http://genomescience.co.uk/images/detail_ghilliedhu-auditorium.jpg)
 
