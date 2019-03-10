@@ -10,6 +10,8 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # [REGISTER HERE](https://www.efdelegates.ed.ac.uk/genomescience2019)
 
+[Please also consider submitting an abstract](http://genomescience.co.uk/abstracts/)
+
 There are different registration options - these are limited so sign up soon or they may run out!
 
 * Early Bird (£220) - Available until May 1st 2019, sign up soon
@@ -22,4 +24,4 @@ All of the above packages include attendance for all three days, lunch and coffe
 Additional packages include:
 
 * Campus accomodation is £55 per night at [Chancellors Court](https://www.edinburghfirst.co.uk/accommodation/pollock-halls/chancellors-court-and-john-burnett/)
-* Conference Dinner is £60 at the [Ghillie Dhu](http://genomescience.co.uk/venue/#dinner)
+* Conference Dinner and Ceilidh is £60 at the [Ghillie Dhu](http://genomescience.co.uk/venue/#dinner)
