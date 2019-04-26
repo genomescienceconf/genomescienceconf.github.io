@@ -26,4 +26,14 @@ Jane Carlton is the Director of Genomic Sequencing at the Center for Genomics an
 ###### Wellcome Sanger Institute
 Sarah is Head of Cellular Genetics at the Wellcome Sanger Institute and has research interests in the development and application of methods to explore the genome, epigenome and transcriptome of single cells in order to better understand normal development and disease processes. Sarah is interested in global principles of protein interactions and gene expression. In particular, her research now focuses on genomics, immunity and single cell approaches. Sarah did her PhD at the MRC Laboratory of Molecular Biology, Cambridge, UK and was a Beit Memorial Fellow at University College London. She started a group at the MRC Laboratory of Molecular Biology in 2001. In 2013, she moved to the Wellcome Genome Campus in Hinxton, Cambridge, where her group was joint between the EMBL-European Bioinformatics Institute and the Wellcome Sanger Institute. Sarah is an EMBO member and fellow of the Academy of Medical Sciences, and her work has been recognized by a number of prizes, including the Lister Prize, Biochemical Society Colworth Medal, Royal Society Crick Lecture and EMBO Gold Medal.
 
+### Dr Kirsten Bos
+###### Max Planck Institute for the Science of Human History 
+Kirsten is a physical anthropologist specialising in ancient DNA and infectious disease.
+
+Techniques in ancient DNA retrieval now allow us to sequence enough DNA from preserved archaeological tissues so that we can computationally reconstruct ancient pathogen genomes. From this we can identify diseases from hundreds of years ago and determine their genetic relationships to modern forms. So far Kirsten has used these techniques to contribute to work on the Black Death and other Yersinia pestis infections, leprosy, cholera, tuberculosis, and most recently paratyphoid fever.
+
+Kirsten is currently the Research Group Leader for Molecular Palaeopathology at the Max Planck Institute for the Science of Human History in Jena, Germany. Her team tackles historical questions relating to the changing landscape of infectious disease over time, host-pathogen coevolution, and the biological consequences of European and New World contact.
+
+After receiving her PhD from McMaster University in 2012, she did two years of research as a SSHRC-funded postdoctoral fellow in the department of Archaeological Sciences at the University of Tuebingen. Following this, She did an additional research year in this department funded by a grant from the European Research Council (ERC).
+
 
