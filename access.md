@@ -10,9 +10,11 @@ bigimg: img/edinburgh.png
   
 ### Edinburgh, September 3rd to 5th, 2019
 
+
 #### Accessibility
 
 The John-McIntyre Conference centre is fully wheelchair accessible, though if you have any concerns about accessibility, please do not hesitate to [contact us](mailto:genome2019@ed.ac.uk)
+
 
 #### Carers
 
