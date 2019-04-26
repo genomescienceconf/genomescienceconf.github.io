@@ -16,6 +16,7 @@ Genome Science 2019 is delighted to announce our amazing keynote speakers
 * __Dr Sarah Teichmann, Wellcome Trust Sanger Institute__
 * __Professor Wendy Bickmore, Director of the MRC Human Genetics Unit__
 * __Professor Jane Carlton, NYU Center for Genomics and Systems Biology__
+* __Dr Kirsten Bos, Max Planck Institute for the Science of Human History__
 
 In 2019, Genome Science will be held in the historic and beautiful city of Edinburgh.  The conference continues to attract more than 250 delegates from academia, healthcare and industry with a focus on genomic technologies and genome science.
 
