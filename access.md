@@ -14,7 +14,7 @@ Below we have some information on accessibility of the conference centre, and su
 
 #### Accessibility
 
-The John-McIntyre Conference centre is fully wheelchair accessible, though if you have any concerns about accessibility, please do not hesitate to [contact us](mailto:genome2019@ed.ac.uk)
+The [John McIntyre Conference centre](https://www.edinburghfirst.co.uk/venues/john-mcintyre-conference-centre/) is fully wheelchair accessible, though if you have any concerns about accessibility, please do not hesitate to [contact us](mailto:genome2019@ed.ac.uk)
 
 
 #### Baby access
