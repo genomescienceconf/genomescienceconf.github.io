@@ -10,6 +10,7 @@ bigimg: img/edinburgh.png
   
 ### Edinburgh, September 3rd to 5th, 2019
 
+Below we have some information on accessibility of the conference centre, and support for parents to join the conference.
 
 #### Accessibility
 
