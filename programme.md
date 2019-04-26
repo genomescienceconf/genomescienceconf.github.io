@@ -55,4 +55,4 @@ Conference Dinner on the evening of Weds 4th
 | 9:00  | 11:00 | __Single Cell Genomics__      |
 | 11:00 | 11:30 | Coffee           |
 | 11:30 | 12:30 | __Keynote: Prof Jane Carlton__ |
-| 12:30 | 13:30 | __Keynote: TBC__
+| 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__ |
