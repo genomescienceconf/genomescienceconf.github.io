@@ -28,14 +28,14 @@ Sessions are planned in the following areas:
 | 13:30 | 14:30 | __Kaynote: Dr Sarah Teichmann__ |
 | 14:30 | 15:00 | Coffee                 |
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
-|  |  | Matt Loose: Impressive Nanopore Stuff |
+|  |  | Matt Loose: Ultra-long reads with Oxford Nanopore |
 |  |  | Vince Smith: Illumina Sequencing Technology |
-|  |  | Omer Bayraktar (Sanger): Spatial Transcriptomics |
+|  |  | Omer Bayraktar: Spatial Transcriptomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
-|  |  | Rade Drmanac (BGI): BGI sequencing technology |
-|  |  | Tuval Ben Yehezkel: Loop Genomics |
-|  |  | M Quail: PacBio Sequel II, 8M and tree of life |
+|  |  | Rade Drmanac: BGI sequencing technology |
+|  |  | Tuval Ben Yehezkel: Long-read Illumina sample prep with Loop Genomics |
+|  |  | Mike Quail: PacBio Sequel II, 8M and tree of life |
 | 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
