@@ -12,6 +12,8 @@ Abstracts are invited for both talks and posters - or both! Please choose your [
 
 # [submit abstract](https://genome2019.exordo.com)
 
+## ABSTRACT DEADLINE IS 15th JULY 2019
+
 Our intention is to accept all abstracts for either a talk or a poster, though if we are inundated then we might not be able to.
 
 Please also [register](http://genomescience.co.uk/register/) - __abstracts for people who have not registered will not be considerd__
