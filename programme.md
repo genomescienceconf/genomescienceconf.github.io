@@ -28,9 +28,9 @@ Sessions are planned in the following areas:
 | 13:30 | 14:30 | __Kaynote: Dr Sarah Teichmann__ |
 | 14:30 | 15:00 | Coffee                 |
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
-| 15:00 | 16:30 | Matt Loose: Impressive Nanopore Stuff |
-| 15:00 | 16:30 | Vince Smith: Illumina Sequencing Technology |
-| 15:00 | 16:30 | Omer Bayraktar (Sanger): Spatial Transcriptomics |
+|  |  | Matt Loose: Impressive Nanopore Stuff |
+|  |  | Vince Smith: Illumina Sequencing Technology |
+|  |  | Omer Bayraktar (Sanger): Spatial Transcriptomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
 | 15:00 | 16:30 | Rade Drmanac (BGI): BGI sequencing technology |
