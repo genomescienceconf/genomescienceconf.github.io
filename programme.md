@@ -33,9 +33,9 @@ Sessions are planned in the following areas:
 |  |  | Omer Bayraktar (Sanger): Spatial Transcriptomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
-| 15:00 | 16:30 | Rade Drmanac (BGI): BGI sequencing technology |
-| 15:00 | 16:30 | Tuval Ben Yehezkel: Loop Genomics |
-| 15:00 | 16:30 | M Quail: PacBio Sequel II, 8M and tree of life |
+|  |  | Rade Drmanac (BGI): BGI sequencing technology |
+|  |  | Tuval Ben Yehezkel: Loop Genomics |
+|  |  | M Quail: PacBio Sequel II, 8M and tree of life |
 | 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
