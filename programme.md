@@ -25,7 +25,7 @@ Sessions are planned in the following areas:
 |-------|-------|------------------------|
 | 11:00 | 12:30 | Registration and lunch |
 | 12:30 | 13:30 | __Keynote: Prof Wendy Bickmore__ |
-| 13:30 | 14:30 | __Kaynote: Dr Sarah Teichmann__ |
+| 13:30 | 14:30 | __Keynote: Dr Sarah Teichmann__ |
 | 14:30 | 15:00 | Coffee                 |
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
 |  |  | Matt Loose: Ultra-long reads with Oxford Nanopore |
