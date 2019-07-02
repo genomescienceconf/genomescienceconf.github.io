@@ -53,8 +53,8 @@ Parallel sessions A and B:
 |       |       |                                 |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions  |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
 | 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
-|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | 
-|  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  | 14:15 | 16:00 | __Microbes II__ |
+|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | | || David Gally| 
+|  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara|
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
 |       |       | Rachel Colquhoun: Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | __Genome Engineering__ |
