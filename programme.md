@@ -53,6 +53,9 @@ Parallel sessions A and B:
 | 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
+|       |       | Rachel Colquhoun: Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | __Genome Engineering__ |
+
+
 
 Conference Dinner on the evening of Weds 4th
 
