@@ -30,12 +30,12 @@ Sessions are planned in the following areas:
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
 |  |  | Matt Loose: <br>Ultra-long reads with Oxford Nanopore |
 |  |  | Vince Smith: <br>Illumina - Advances in sequencing technology that are transforming genomics |
-|  |  | Omer Bayraktar: Spatial Transcriptomics |
+|  |  | Omer Bayraktar: <br>The Rise of Spatial Genomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
 |  |  | Rade Drmanac: <br>A new generation of NGS:  PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR). |
-|  |  | Tuval Ben Yehezkel: LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond |
-|  |  | Mike Quail: PacBio Sequel II, 8M and tree of life |
+|  |  | Tuval Ben Yehezkel: <br>LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond |
+|  |  | Mike Quail: <br>PacBio Sequel II, 8M and tree of life |
 | 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
@@ -51,7 +51,8 @@ Parallel sessions A and B:
 |       |       |                                 |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions  |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
 | 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
-|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      |       | 14:15 | 16:00 | __Microbes II__ |
+|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | 
+|  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  | 14:15 | 16:00 | __Microbes II__ |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
 |       |       | Rachel Colquhoun: Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | __Genome Engineering__ |
