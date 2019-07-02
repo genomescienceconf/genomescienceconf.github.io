@@ -45,6 +45,8 @@ Parallel sessions A and B:
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
 | 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
+|       |       |    |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
+|       |       |    |       |   |  |Laura Ross:<br>Genome diminution in mealybugs, and other tales of arthropod sex determination |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
 | 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
 |       |       |                                 |       |       |       | Anna V. Protasio: <br>Parasites within parasites: transposable elements in platyhelminthes |
