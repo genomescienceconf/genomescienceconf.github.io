@@ -57,8 +57,8 @@ Parallel sessions A and B:
 |  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara|
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
-|       |       | Rachel Colquhoun: Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | __Genome Engineering__ |
-
+|       |       | Rachel Colquhoun: <br>Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | TBC |
+|       |       | TBC  |       | 16:20 | 18:10 | TBC |
 
 
 Conference Dinner on the evening of Weds 4th
@@ -68,6 +68,8 @@ Conference Dinner on the evening of Weds 4th
 | Start | End   | What             |
 |-------|-------|------------------|
 | 9:00  | 11:00 | __Single Cell Genomics__      |
+|   |  | Iain Macaulay:<br>Molecular biology, including long reads for scRNA-seq      |
+|   |  | Martin Hemberg:<br>Bioinformatics for scRNA-seq     |
 | 11:00 | 11:30 | Coffee           |
 | 11:30 | 12:30 | __Keynote: Prof Jane Carlton__ |
 | 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__ Genomic reconstructions of ancient pathogens |
