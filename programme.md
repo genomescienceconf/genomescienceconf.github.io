@@ -28,14 +28,14 @@ Sessions are planned in the following areas:
 | 13:30 | 14:30 | __Keynote: Dr Sarah Teichmann__<br>Immunogenomics one cell at a time |
 | 14:30 | 15:00 | Coffee                 |
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
-|  |  | Matt Loose: <br>Ultra-long reads with Oxford Nanopore |
-|  |  | Vince Smith: <br>Illumina - Advances in sequencing technology that are transforming genomics |
-|  |  | Omer Bayraktar: <br>The Rise of Spatial Genomics |
+|  |  | Matt Loose (Long Read Club): <br>Ultra-long reads with Oxford Nanopore |
+|  |  | Vince Smith (Illumina): <br>Advances in sequencing technology that are transforming genomics |
+|  |  | Omer Bayraktar (Sanger): <br>The Rise of Spatial Genomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
-|  |  | Rade Drmanac: <br>A new generation of NGS:  PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR). |
-|  |  | Tuval Ben Yehezkel: <br>LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond |
-|  |  | Mike Quail: <br>PacBio Sequel II, 8M and tree of life |
+|  |  | Rade Drmanac (BGI/Complete): <br>A new generation of NGS:  PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR). |
+|  |  | Tuval Ben Yehezkel (LoopSeq): <br>LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond |
+|  |  | Mike Quail (Sanger): <br>PacBio Sequel II, 8M and tree of life |
 | 18:00 | 19:30 | Wine, snacks, posters  | 
 
 ### Wednesday 4th September 2019
