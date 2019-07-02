@@ -29,7 +29,7 @@ Sessions are planned in the following areas:
 | 14:30 | 15:00 | Coffee                 |
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
 |  |  | Matt Loose: Ultra-long reads with Oxford Nanopore |
-|  |  | Vince Smith: Illumina Sequencing Technology |
+|  |  | Vince Smith: Illumina - Advances in sequencing technology that are transforming genomics |
 |  |  | Omer Bayraktar: Spatial Transcriptomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
@@ -46,10 +46,11 @@ Parallel sessions A and B:
 |-------|-------|-----------------------------|-------|-------|-------|------------|
 | 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
-| 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbial Genomics__ |
+| 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
 |       |       |                                 |       |       |       | Anna V. Protasio: Parasites within parasites: transposable elements in platyhelminthes |
+|       |       |                                 |       |       |       | Julie Segre: Human skin microbiome: trans-kingdom, host-immune interactions  |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
-| 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbial Communities__ |
+| 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
 
@@ -62,4 +63,4 @@ Conference Dinner on the evening of Weds 4th
 | 9:00  | 11:00 | __Single Cell Genomics__      |
 | 11:00 | 11:30 | Coffee           |
 | 11:30 | 12:30 | __Keynote: Prof Jane Carlton__ |
-| 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__ |
+| 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__ Genomic reconstructions of ancient pathogens |
