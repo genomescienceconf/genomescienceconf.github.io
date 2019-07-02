@@ -28,8 +28,8 @@ Sessions are planned in the following areas:
 | 13:30 | 14:30 | __Keynote: Dr Sarah Teichmann__ |
 | 14:30 | 15:00 | Coffee                 |
 | 15:00 | 16:30 | __Evolving Technologies 1__ |
-|  |  | Matt Loose: Ultra-long reads with Oxford Nanopore |
-|  |  | Vince Smith: Illumina - Advances in sequencing technology that are transforming genomics |
+|  |  | Matt Loose: <br>Ultra-long reads with Oxford Nanopore |
+|  |  | Vince Smith: <br>Illumina - Advances in sequencing technology that are transforming genomics |
 |  |  | Omer Bayraktar: Spatial Transcriptomics |
 | 16:30 | 17:00 | Coffee                 |
 | 17:00 | 18:00 | __Evolving Technologies 2__ |
