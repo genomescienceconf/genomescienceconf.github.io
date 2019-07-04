@@ -45,8 +45,8 @@ Parallel sessions A and B:
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
 | 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
-|       |       |    |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
-|       |       |    |       |   |  |Laura Ross:<br>Genome diminution in mealybugs, and other tales of arthropod sex determination |
+|       |       | Conservation genomics: TBC   |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
+|       |       | TBC   |       |   |  |Laura Ross:<br>Genome diminution in mealybugs, and other tales of arthropod sex determination |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
 | 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
 |       |       | Sian Ellard: <br>Application of genomic sequencing technology to the diagnosis of rare<br> diseases: from the 100,000 Genomes Project<br> to a nationally commissioned Genomic Medicine Service                                |       |       |       | Anna V. Protasio: <br>Parasites within parasites: transposable elements in platyhelminthes |
@@ -57,8 +57,8 @@ Parallel sessions A and B:
 |  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara|
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
-|       |       | Rachel Colquhoun: <br>Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | TBC |
-|       |       | TBC  |       | 16:20 | 18:10 | TBC |
+|       |       | Rachel Colquhoun: <br>Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | Maria Paz Zafra: <br>TBC |
+|       |       | Anton Koroneynikov: <br>Tools for assembly graph analysis and more  |       | 16:20 | 18:10 | TBC |
 
 
 Conference Dinner on the evening of Weds 4th
