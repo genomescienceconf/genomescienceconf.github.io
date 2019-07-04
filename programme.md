@@ -50,7 +50,7 @@ Parallel sessions A and B:
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
 | 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
 |       |       | Sian Ellard: <br>Application of genomic sequencing technology to the diagnosis of rare diseases: from the 100,000 Genomes Project to a nationally commissioned Genomic Medicine Service                                |       |       |       | Anna V. Protasio: <br>Parasites within parasites: transposable elements in platyhelminthes |
-|       |       | Mike Inouye: <br>TBC                                |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions  |
+|       |       | Mike Inouye: <br>TBC                                |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions            .  |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
 | 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
 |  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | | || David Gally| 
