@@ -50,10 +50,10 @@ Parallel sessions A and B:
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
 | 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
 |       |       | Sian Ellard: <br>Application of genomic sequencing technology to the diagnosis of rare<br> diseases: from the 100,000 Genomes Project<br> to a nationally commissioned Genomic Medicine Service                                |       |       |       | Anna V. Protasio: <br>Parasites within parasites: transposable elements in platyhelminthes |
-|       |       | Mike Inouye: <br>TBC                                |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions            .  |
+|       |       | Mike Inouye: <br>The utility of polygenic risk scores for cardiovascular disease                               |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions  |
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
 | 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
-|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | | || David Gally| 
+|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | | || David Gally: <br>Prophage-mediated chromosomal rearrangements in Escherichia coli O157 | 
 |  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara|
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
