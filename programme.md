@@ -46,7 +46,7 @@ Parallel sessions A and B:
 |-------|-------|-----------------------------|-------|-------|-------|------------|
 | 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
 |       |       | Conservation genomics: TBC   |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
-|       |       | TBC   |       |   |  |Laura Ross:<br>Genome diminution in mealybugs, and other tales of arthropod sex determination |
+|       |       | TBC   |       |   |  |Laura Ross:<br>Using genomic tools to study unusual insect reproduction and genetics |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
 | 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
 |       |       | Sian Ellard: <br>Application of genomic sequencing technology to the diagnosis of rare<br> diseases: from the 100,000 Genomes Project<br> to a nationally commissioned Genomic Medicine Service                                |       |       |       | Anna V. Protasio: <br>Parasites within parasites: transposable elements in platyhelminthes |
