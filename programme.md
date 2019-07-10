@@ -54,10 +54,10 @@ Parallel sessions A and B:
 | 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
 | 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
 |  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | | || David Gally: <br>Prophage-mediated chromosomal rearrangements in Escherichia coli O157 | 
-|  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara|
+|  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara: <br>Rotavirus vaccines and strain diversity |
 | 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
 | 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
-|       |       | Rachel Colquhoun: <br>Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | Maria Paz Zafra: <br>TBC |
+|       |       | Rachel Colquhoun: <br>Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | Maria Paz Zafra Martin: <br>Engineering the cancer genome at single base resolution |
 |       |       | Anton Koroneynikov: <br>Tools for assembly graph analysis and more  |       | 16:20 | 18:10 | TBC |
 
 
