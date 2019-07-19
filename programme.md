@@ -45,7 +45,7 @@ Parallel sessions A and B:
 | Start | End   | What                        |       | Start | End   | What       |
 |-------|-------|-----------------------------|-------|-------|-------|------------|
 | 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
-|       |       | Conservation genomics: TBC   |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
+|       |       | Emily Humble: <br>horned oryx conservation genomics (TBC)  |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
 |       |       | Rachel Gilroy: <br>The broiler chicken intestinal microbiome: interventions to improve health and welfare   |       |   |  |Laura Ross:<br>Using genomic tools to study unusual insect reproduction and genetics |
 | 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
 | 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
