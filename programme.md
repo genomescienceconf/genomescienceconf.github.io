@@ -72,4 +72,4 @@ Conference Dinner on the evening of Weds 4th
 |   |  | Martin Hemberg:<br>Bioinformatics for scRNA-seq     |
 | 11:00 | 11:30 | Coffee           |
 | 11:30 | 12:30 | __Keynote: Prof Jane Carlton__ |
-| 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__ Genomic reconstructions of ancient pathogens |
+| 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__: <br>Genomic reconstructions of ancient pathogens |
