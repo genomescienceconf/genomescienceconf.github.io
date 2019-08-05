@@ -71,5 +71,5 @@ Conference Dinner on the evening of Weds 4th
 |   |  | Iain Macaulay:<br>Molecular biology, including long reads for scRNA-seq      |
 |   |  | Martin Hemberg:<br>Bioinformatics for scRNA-seq     |
 | 11:00 | 11:30 | Coffee           |
-| 11:30 | 12:30 | __Keynote: Prof Jane Carlton__ |
+| 11:30 | 12:30 | __Keynote: Prof Jane Carlton__: <br>Bringing genomics into malaria field studies in India |
 | 12:30 | 13:30 | __Keynote: Dr Kirsten Bos__: <br>Genomic reconstructions of ancient pathogens |
