@@ -32,12 +32,14 @@ __Start__|__End__|__Who__|__Title__
 
 ####Parallel sessions
 
+__A__|__B__
+-----|-----
 #### A
 * 09:00 - 10:40 - *Plant and Animal Genomics* 
 * 11:15 - 13:15 - *Clinical Genomics* 
 * 14:15 - 16:00 - *Developmental Biology*
 * 16:20 - 18:00 - *Bioinformatics and software* 
-
+|
 #### B
 * 09:00 - 10:40 - *Evolutionary Genomics*
 * 11:15 - 13:15 - *Microbes I*
