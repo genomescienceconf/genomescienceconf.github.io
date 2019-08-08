@@ -33,7 +33,7 @@ We are very proud to thank our awesome sponsors who make this meeting possible
 
 |   |   |
 | ------------- |---------------| 
-| ![](logos/Cambridge_Bioscience_Master_Logo_800x266.converted.png) | ![](logos/ 	CGR_full_Logo.converted.png) |
+| ![](logos/Cambridge_Bioscience_Master_Logo_800x266.converted.png) | ![](logos/CGR_full_Logo.converted.png) |
 | ![](logos/Roche_logo_large.converted.png) | ![](logos/GeneWiz.converted.png) |
 | ![](logos/Earlham-Institute-double-strap-line-high-res_Logo.converted.png) |   |
 
