@@ -12,26 +12,23 @@ use-site-title: true
 11:30|12:30|Registration and lunch| 
 12:30|13:20|Keynote: Prof Wendy Bickmore|Understanding function in the non-coding genome
 13:20|14:10|Keynote: Dr Sarah Teichmann|Immunogenomics one cell at a time
- | | | 
 14:10|14:40|Coffee| 
- | | | 
 14:40|16:10|Evolving Technologies 1| 
 14:40|15:00|Clive Brown (Oxford Nanopore)|The latest from Nanopore sequencing
 15:00|15:20|Vince Smith (Illumina)|Advances in sequencing technology that are transforming genomics
 15:20|15:35|Louise Williams (New England BioLabs)|New England BioLabs
 15:35|15:45|BioNano| 
 15:45|16:10|Omer Bayraktar (Sanger)|The Rise of Spatial Genomics
- | | | 
 16:10|16:40|Coffee| 
- | | | 
 16:40|18:00|Evolving Technologies 2| 
 16:40|17:00|Rade Drmanac (BGI/Complete):|A new generation of NGS: PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR).
 17:00|17:15|Samplix| 
 17:15|17:35|Tuval Ben Yehezkel (LoopSeq):|LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond
 17:35|17:45|TTP LabTech| 
 17:45|18:00|Mike Quail (Sanger):|PacBio Sequel II, 8M and tree of life
- | | | 
-18:00|19:30|Wine, snacks, posters| 
+
+
+18:00 - 19:30: Wine, snacks, and posters
 
 ### Wednesday 4th September 2019
 
