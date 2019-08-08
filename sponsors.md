@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sponsor
 title: Programme
 subtitle: Programme for Genome Science 2019
 use-site-title: true
