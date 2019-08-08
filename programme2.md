@@ -63,7 +63,7 @@ __A__|__B__
 15:15|15:35|Tamir Chandra|Mouse embryonic stem cells switch from naïve to formative state during transition through G2M
 15:35|15:55|Laura Mincarelli|Combined short and long read single-cell sequencing identify aging related transcriptional profile and splicing landscape in hematopoietic stem cells and progenitors
 *15:55*|*16:20*|*Coffee*|
-16:20|18:00|Bioinformatics and Software| 
+**_16:20_**|**_18:00_**|**_Bioinformatics and Software_**| 
 16:20|16:45|Rachel Colquhoun|Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora
 16:45|17:10|Anton Koroneynikov|Tools for assembly graph analysis and more
 17:10|17:35|Apurva Narechania|What do we gain when tolerating loss? The information bottleneck, lossy compression, and detecting horizontal gene transfer
@@ -79,7 +79,7 @@ __A__|__B__
 09:50|10:15|Max Stammnitz|Tracing the evolution of two transmissible cancers in Tasmanian devils
 10:15|10:40|Fiona Jane Whelan|The coincident (co-occurrence and avoidance) relationships of genes in prokaryote genomes
 *10:40*|*11:15*|*Coffee*|
-11:15|13:15|Microbes I| 
+**_11:15_**|**_13:15_**|**_Microbes I_**| 
 11:15|11:45|Anna V. Protasio:|Parasites within parasites: transposable elements in platyhelminthes
 11:45|12:15|Julie Segre:|Human skin microbiome: trans-kingdom, host-immune interactions
 12:15|12:40|Emma Ainsworth|Long-Read Sequencing Determines Genome Structure in Salmonella Typhi
