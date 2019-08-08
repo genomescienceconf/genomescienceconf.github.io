@@ -68,7 +68,8 @@ __A__|__B__
 17:10|17:35|Apurva Narechania|What do we gain when tolerating loss? The information bottleneck, lossy compression, and detecting horizontal gene transfer
 17:35|18:00|Wenbin Guo|3D RNA-seq - a powerful and flexible tool for rapid and accurate differential expression and alternative splicing analysis of RNA-seq data for biologists
 
-####Session B
+#### Session B
+
 **Start**|**End**|**Who**|**Title**
 -----|-----|-----|-----
 09:00|10:40|Evolutionary genomics| 
