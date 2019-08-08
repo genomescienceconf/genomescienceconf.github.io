@@ -18,17 +18,15 @@ __Start__|__End__|__Who__|__Title__
 15:00|15:20|Vince Smith (Illumina)|Advances in sequencing technology that are transforming genomics
 15:20|15:35|Louise Williams (New England BioLabs)|New England BioLabs
 15:35|15:45|BioNano|BioNano
-15:45|16:10|Omer Bayraktar (Sanger)|The Rise of Spatial Genomics
+15:45|16:10|Omer Bayraktar|The Rise of Spatial Genomics
 *16:10*|*16:40*|*Coffee*| 
 **_16:40_**|**_18:00_**|**_Evolving Technologies 2_**| 
 16:40|17:00|Rade Drmanac (BGI/Complete):|A new generation of NGS: PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR).
 17:00|17:15|Samplix|Samplix
 17:15|17:35|Tuval Ben Yehezkel (LoopSeq):|LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond
-17:35|17:45|TTP LabTech| 
-17:45|18:00|Mike Quail (Sanger):|PacBio Sequel II, 8M and tree of life
-
-
-**18:00 - 19:30: Wine, snacks, and posters**
+17:35|17:45|TTP LabTech|TTP LabTech
+17:45|18:00|Mike Quail|PacBio Sequel II, 8M and tree of life
+**_18:00_**|**_19:30_**|**_Wine, snacks, and posters_**|
 
 ### Wednesday 4th September 2019
 
