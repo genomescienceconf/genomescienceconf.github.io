@@ -9,7 +9,8 @@ use-site-title: true
 
 __Start__|__End__|__Who__|__Title__
 -------|-------|-------|-------
-**_11:30_**|**_12:30_**|**_Registration and lunch_**|
+**_11:30_**|**_12:20_**|**_Registration and lunch_**|
+12:20|12:30|Mick Watson|Introduction and Welcome
 12:30|13:20|**Keynote:** Wendy Bickmore|Understanding function in the non-coding genome
 13:20|14:10|**Keynote:** Sarah Teichmann|Immunogenomics one cell at a time
 *14:10*|*14:40*|*Coffee*| 
@@ -126,6 +127,6 @@ __Time__|__A__|__B__
 10:20|10:40|Kristina Kirschner|Single cell Sequencing reveals Notch mediated secondary senescence
 10:40|11:00|Daniel Seaton|Mapping the functions of human disease risk alleles during neuronal development using multiplexed differentiation of human induced pluripotent stem cells
 *11:00*|*11:30*|*Coffee*| 
-11:30|12:20|**keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
-12:20|13:10|**keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
+11:30|12:20|**Keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
+12:20|13:10|**Keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
 **_13:10_**|**_THE END_**| |**_Packed lunch available_**
