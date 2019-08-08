@@ -30,25 +30,20 @@ __Start__|__End__|__Who__|__Title__
 
 ### Wednesday 4th September 2019
 
-Parallel sessions A and B:
+Parallel sessions:
+* 09:00 - 10:40 - *Plant and Animal Genomics* **or** *Evolutionary Genomics*
+* 11:15 - 13:15 - *Clinical Genomics* **or** *Microbes I*
+* 14:15 - 16:00 - *Developmental Biology* **or** *Microbes II*
+* 16:20 - 18:00 - *Bioinformatics and software* **or** *Genome Engineering*
 
-| Start | End   | What                        |       | Start | End   | What       |
-|-------|-------|-----------------------------|-------|-------|-------|------------|
-| 9:00  | 10:40 | __Plant and animal genomics__   |       | 9:00  | 10:40 | __Evolutionary Genomics__ |
-|       |       | Emily Humble: <br>horned oryx conservation genomics (TBC)  |       |   |  |Reuben Nowell:<br>Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure |
-|       |       | Rachel Gilroy: <br>The broiler chicken intestinal microbiome: interventions to improve health and welfare   |       |   |  |Laura Ross:<br>Using genomic tools to study unusual insect reproduction and genetics |
-| 10:40 | 11:15 | Coffee                      |       | 10:40 | 11:15 | Coffee     |
-| 11:15 | 13:15 | __Clinical Genomics__           |       | 11:15 | 13:15 | __Microbes I__ |
-|       |       | Sian Ellard: <br>Application of genomic sequencing technology to the diagnosis of rare<br> diseases: from the 100,000 Genomes Project<br> to a nationally commissioned Genomic Medicine Service                                |       |       |       | Anna V. Protasio: <br>Parasites within parasites: transposable elements in platyhelminthes |
-|       |       | Mike Inouye: <br>The utility of polygenic risk scores for cardiovascular disease                               |       |       |       | Julie Segre: <br>Human skin microbiome: trans-kingdom, host-immune interactions  |
-| 13:15 | 14:15 | Lunch                       |       | 13:15 | 14:15 | Lunch      |
-| 14:15 | 16:00 | __Developmental Biology__       |       | 14:15 | 16:00 | __Microbes II__ |
-|  |  | Alistair McGregor:<br>Investigating the developmental consequences of whole genome duplication in arachnids      | | || David Gally: <br>Prophage-mediated chromosomal rearrangements in Escherichia coli O157 | 
-|  |  | Mansi Srivastava:<br>Acoel genome reveals the regulatory landscape for whole-body regeneration      |  |  |  |Miren Iturriza-Gomara: <br>Rotavirus vaccines and strain diversity |
-| 16:00 | 16:20 | Coffee                      |       | 16:00 | 16:20 | Coffee     |
-| 16:20 | 18:10 | __Bioinformatics & Software__   |       | 16:20 | 18:10 | __Genome Engineering__ |
-|       |       | Rachel Colquhoun: <br>Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora  |       | 16:20 | 18:10 | Maria Paz Zafra Martin: <br>Engineering the cancer genome at single base resolution |
-|       |       | Anton Koroneynikov: <br>Tools for assembly graph analysis and more  |       | 16:20 | 18:10 | TBC |
+**Start**|**End**|**Who**|**Title**
+-------|-------|-------|-------
+09:00|10:40|Plant and animal genomics| 
+09:00|09:20|Emily Humble|horned oryx conservation genomics (TBC)
+09:20|09:40|Rachel Gilroy|The broiler chicken intestinal microbiome: interventions to improve health and welfare
+09:40|09:55|Jon Rock (Lexogen)|Improving the quality of your RNA Next Generation Sequencing with Lexogen
+09:55|10:15|Matthew Parker|Increasing recombination in the barley (Hordeum vulgare) by manipulating meiotic genes
+10:15|10:35|Miriam Schreiber|Direct RNA Sequencing of the Arabidopsis transcriptome with Nanopores
 
 
 Conference Dinner on the evening of Weds 4th
