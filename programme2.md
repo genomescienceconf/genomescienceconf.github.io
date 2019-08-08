@@ -10,8 +10,8 @@ use-site-title: true
 __Start__|__End__|__Who__|__Title__
 -------|-------|-------|-------
 **_11:30_**|**_12:30_**|**_Registration and lunch_**|
-12:30|13:20|**Keynote:** Prof Wendy Bickmore|Understanding function in the non-coding genome
-13:20|14:10|**Keynote:** Dr Sarah Teichmann|Immunogenomics one cell at a time
+12:30|13:20|**Keynote:** Wendy Bickmore|Understanding function in the non-coding genome
+13:20|14:10|**Keynote:** Sarah Teichmann|Immunogenomics one cell at a time
 *14:10*|*14:40*|*Coffee*| 
 **_14:40_**|**_16:10_**|**_Evolving Technologies 1_**| 
 14:40|15:00|Clive Brown (Oxford Nanopore)|The latest from Nanopore sequencing
@@ -34,9 +34,12 @@ __Start__|__End__|__Who__|__Title__
 
 #### Parallel sessions
 
-__A__|__B__
------|-----
-09:00 - 10:40 - *Plant and Animal Genomics* <br>11:15 - 13:15 - *Clinical Genomics* <br>14:15 - 16:00 - *Developmental Biology* <br>16:20 - 18:00 - *Bioinformatics and software* |09:00 - 10:40 - *Evolutionary Genomics* <br>11:15 - 13:15 - *Microbes I* <br>14:15 - 16:00 - *Microbes II* <br>16:20 - 18:00 - *Genome Engineering*
+__Time__|__A__|__B__
+-----|-----|-----
+09:00 - 10:40|*Plant and Animal Genomics*|*Evolutionary Genomics*
+11:15 - 13:15|*Clinical Genomics*|*Microbes I*
+14:15 - 16:00|*Developmental Biology*|*Microbes II*
+16:20 - 18:00|*Bioinformatics and software* |*Genome Engineering*
 
 ---
 
