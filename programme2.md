@@ -7,8 +7,8 @@ use-site-title: true
 
 ### Tuesday 3rd September 2019
 
-**Start**|**End**|**Who**|**Title**
-:-----:|:-----:|:-----:|:-----:
+__Start__|__End__|__Who__|__Title__
+-------|-------|-------|-------
 11:30|12:30|Registration and lunch| 
 12:30|13:20|Keynote: Prof Wendy Bickmore|Understanding function in the non-coding genome
 13:20|14:10|Keynote: Dr Sarah Teichmann|Immunogenomics one cell at a time
