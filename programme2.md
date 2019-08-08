@@ -13,6 +13,9 @@ __Start__|__End__|__Who__|__Title__
 12:30|13:20|Keynote: Prof Wendy Bickmore|Understanding function in the non-coding genome
 13:20|14:10|Keynote: Dr Sarah Teichmann|Immunogenomics one cell at a time
 14:10|14:40|Coffee| 
+
+__Start__|__End__|__Who__|__Title__
+-------|-------|-------|-------
 14:40|16:10|Evolving Technologies 1| 
 14:40|15:00|Clive Brown (Oxford Nanopore)|The latest from Nanopore sequencing
 15:00|15:20|Vince Smith (Illumina)|Advances in sequencing technology that are transforming genomics
@@ -20,6 +23,9 @@ __Start__|__End__|__Who__|__Title__
 15:35|15:45|BioNano| 
 15:45|16:10|Omer Bayraktar (Sanger)|The Rise of Spatial Genomics
 16:10|16:40|Coffee| 
+
+__Start__|__End__|__Who__|__Title__
+-------|-------|-------|-------
 16:40|18:00|Evolving Technologies 2| 
 16:40|17:00|Rade Drmanac (BGI/Complete):|A new generation of NGS: PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR).
 17:00|17:15|Samplix| 
