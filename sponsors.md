@@ -10,7 +10,7 @@ use-site-title: true
 We are very proud to thank our awesome sponsors who make this meeting possible
 
 ### Dinner
-![](logos/ONT_logo_TM_colour_300dpi_(003).converted.png)
+![](http://genomescience.co.uk/logos/ONT_logo_TM_colour_300dpi_(003).converted.png)
 
 ### Gold
 
