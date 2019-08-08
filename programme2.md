@@ -125,4 +125,4 @@ __A__|__B__
 *11:00*|*11:30*|*Coffee*| 
 11:30|12:20|**keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
 12:20|13:10|**keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
-**_13:10_**|**_THE END_**| |*__Packed lunch available_**
+**_13:10_**|**_THE END_**| |**_Packed lunch available_**
