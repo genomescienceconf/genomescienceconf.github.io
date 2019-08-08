@@ -29,4 +29,13 @@ We are very proud to thank our awesome sponsors who make this meeting possible
 | ![](logos/PacBio_ShortLogo_color_RGB.converted.png) | ![](logos/Stilla.converted.png) |
 | ![](logos/MGI.converted.png) | ![](logos/Arcis_Logo_72dpi_800x800pixels.converted.png) |
 
+### Bronze
+
+|   |   |
+| ------------- |---------------| 
+| ![](logos/Cambridge_Bioscience_Master_Logo_800x266.converted.png) | ![](logos/ 	CGR_full_Logo.converted.png) |
+| ![](logos/Roche_logo_large.converted.png) | ![](logos/GeneWiz.converted.png) |
+| ![](logos/Earlham-Institute-double-strap-line-high-res_Logo.converted.png) |   |
+
+
 
