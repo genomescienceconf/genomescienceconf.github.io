@@ -79,9 +79,6 @@ __A__|__B__
 10:15|10:40|Fiona Jane Whelan|The coincident (co-occurrence and avoidance) relationships of genes in prokaryote genomes
 10:40|11:15|Coffee|
 11:15|13:15|Microbes I| 
-
-
-
 11:15|11:45|Anna V. Protasio:|Parasites within parasites: transposable elements in platyhelminthes
 11:45|12:15|Julie Segre:|Human skin microbiome: trans-kingdom, host-immune interactions
 12:15|12:40|Emma Ainsworth|Long-Read Sequencing Determines Genome Structure in Salmonella Typhi
@@ -116,9 +113,6 @@ Conference Dinner on the evening of Weds 4th
 10:20|10:40|Kristina Kirschner|Single cell Sequencing reveals Notch mediated secondary senescence
 10:40|11:00|Daniel Seaton|Mapping the functions of human disease risk alleles during neuronal development using multiplexed differentiation of human induced pluripotent stem cells
 11:00|11:30|Coffee| 
-
-**Start**|**End**|**Who**|**Title**
------|-----|-----|-----
-11:30|12:20|Jane Carlton|Bringing genomics into malaria field studies in India
-12:20|13:10|Kirsten Bos|Genomic reconstructions of ancient pathogens
+11:30|12:20|**keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
+12:20|13:10|**keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
 13:10|THE END| |Packed lunch available
