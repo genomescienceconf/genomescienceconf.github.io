@@ -14,6 +14,7 @@ We are very proud to thank our awesome sponsors who make this meeting possible
 
 ### Gold
 
+|   |   |
 | ------------- |---------------| 
 | ![](logos/Agilent_Logo_Tag_v_RGB_square.converted.png) | ![](logos/NEB_Logo_Co_800x58472.converted.png) |
 | ![](logos/800x800_Samplix_logo.converted.png) | ![](logos/10X.converted.png) |
@@ -21,6 +22,7 @@ We are very proud to thank our awesome sponsors who make this meeting possible
 
 ### Silver
 
+|   |   |
 | ------------- |---------------| 
 | ![](logos/Fluidigm.converted.png) | ![](logos/QLogo_30mm_RGB_jpeg_format_Qiagen.converted.png) |
 | ![](logos/Bionano.converted.png) | ![](logos/TTPLT_design_discovery_stacked_right_Logo.converted.png) |
