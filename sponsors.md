@@ -1,7 +1,7 @@
 ---
 layout: sponsor
-title: Programme
-subtitle: Programme for Genome Science 2019
+title: Sponsors
+subtitle: Thank you to the sponsors of Genome Science 2019
 use-site-title: true
 ---
 
