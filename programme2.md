@@ -37,6 +37,7 @@ __A__|__B__
 09:00 - 10:40 - *Plant and Animal Genomics* <br>11:15 - 13:15 - *Clinical Genomics* <br>14:15 - 16:00 - *Developmental Biology* <br>16:20 - 18:00 - *Bioinformatics and software* |09:00 - 10:40 - *Evolutionary Genomics* <br>11:15 - 13:15 - *Microbes I* <br>14:15 - 16:00 - *Microbes II* <br>16:20 - 18:00 - *Genome Engineering*
 
 #### Session A
+
 **Start**|**End**|**Who**|**Title**
 -------|-------|-------|-------
 09:00|10:40|Plant and animal genomics| 
