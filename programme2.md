@@ -28,6 +28,8 @@ __Start__|__End__|__Who__|__Title__
 17:45|18:00|Mike Quail|PacBio Sequel II, 8M and tree of life
 **_18:00_**|**_19:30_**|**_Wine, snacks, and posters_**|
 
+---
+
 ### Wednesday 4th September 2019
 
 #### Parallel sessions
@@ -35,6 +37,8 @@ __Start__|__End__|__Who__|__Title__
 __A__|__B__
 -----|-----
 09:00 - 10:40 - *Plant and Animal Genomics* <br>11:15 - 13:15 - *Clinical Genomics* <br>14:15 - 16:00 - *Developmental Biology* <br>16:20 - 18:00 - *Bioinformatics and software* |09:00 - 10:40 - *Evolutionary Genomics* <br>11:15 - 13:15 - *Microbes I* <br>14:15 - 16:00 - *Microbes II* <br>16:20 - 18:00 - *Genome Engineering*
+
+---
 
 #### Session A
 
@@ -69,6 +73,8 @@ __A__|__B__
 17:10|17:35|Apurva Narechania|What do we gain when tolerating loss? The information bottleneck, lossy compression, and detecting horizontal gene transfer
 17:35|18:00|Wenbin Guo|3D RNA-seq - a powerful and flexible tool for rapid and accurate differential expression and alternative splicing analysis of RNA-seq data for biologists
 
+---
+
 #### Session B
 
 **Start**|**End**|**Who**|**Title**
@@ -98,13 +104,17 @@ __A__|__B__
 17:10|17:35|Mike McGrew|Genome editing in chickens
 17:35|18:00|Spring Tan|Genome Wide CRISPR Knockout Screen Identifies Host Factors Involved in Bovine Herpes Virus Type 1 Infection
 
+---
+
 #### Conference Dinner on the evening of Weds 4th - **_ticketed_**
+
+---
 
 ### Thursday 5th September 2019
 
 **Start**|**End**|**Who**|**Title**
 -----|-----|-----|-----
-09:00|11:00|Single Cell Genomics| 
+**_09:00_**|**_11:00_**|**_Single Cell Genomics_**| 
 09:00|09:20|Iain Macaulay|Molecular biology, including long reads for scRNA-seq
 09:20|09:40|Martin Hemberg|Bioinformatics for scRNA-seq
 09:40|09:55|10X Genomics| 
@@ -112,7 +122,7 @@ __A__|__B__
 10:10|10:20|Zhouchun Shang (MGI/BGI)|Dissecting cell heterogeneity using single-cell omics powered by DNBSEQ
 10:20|10:40|Kristina Kirschner|Single cell Sequencing reveals Notch mediated secondary senescence
 10:40|11:00|Daniel Seaton|Mapping the functions of human disease risk alleles during neuronal development using multiplexed differentiation of human induced pluripotent stem cells
-11:00|11:30|Coffee| 
+*11:00*|*11:30*|*Coffee*| 
 11:30|12:20|**keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
 12:20|13:10|**keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
-13:10|THE END| |Packed lunch available
+**_13:10_**|**_THE END_**| |*__Packed lunch available_**
