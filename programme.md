@@ -49,7 +49,8 @@ __Time__|__A__|__B__
 **Start**|**End**|**Who**|**Title**
 -------|-------|-------|-------
 **_09:00_**|**_10:40_**|**_Plant and animal genomics_**| 
-09:00|09:20|Emily Humble|Scimitar-horned oryx conservation genomics9:20|09:40|Rachel Gilroy|The broiler chicken intestinal microbiome: interventions to improve health and welfare
+09:00|09:20|Emily Humble|Scimitar-horned oryx conservation genomics
+09:20|09:40|Rachel Gilroy|The broiler chicken intestinal microbiome: interventions to improve health and welfare
 09:40|09:55|Jon Rock (Lexogen)|Improving the quality of your RNA Next Generation Sequencing with Lexogen
 09:55|10:15|Matthew Parker|Increasing recombination in the barley (Hordeum vulgare) by manipulating meiotic genes
 10:15|10:35|Miriam Schreiber|Direct RNA Sequencing of the Arabidopsis transcriptome with Nanopores
