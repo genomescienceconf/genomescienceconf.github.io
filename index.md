@@ -10,9 +10,7 @@ bigimg: img/edinburgh.png
   
 ### Edinburgh, September 3rd to 5th, 2019
 
-### [Register now](http://genomescience.co.uk/register/)
-
-### REGISTRATION DEADLINE - 19th August
+### REGISTRATION DEADLINE - 19th August [Register now](http://genomescience.co.uk/register/)
 
 ### [Full programme announced](http://genomescience.co.uk/programme/)
 
