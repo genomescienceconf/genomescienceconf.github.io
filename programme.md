@@ -73,7 +73,7 @@ __Time__|__A__|__B__
 *15:55*|*16:20*|*Coffee*|
 **_16:20_**|**_18:00_**|**_Bioinformatics and Software_**| 
 16:20|16:45|Rachel Colquhoun|Nucleotide level analysis of genetic variation in the bacterial pan-genome with Pandora
-16:45|17:10|Anton Koroneynikov|Tools for assembly graph analysis and more
+16:45|17:10|Anton Korobeynikov|Tools for assembly graph analysis and more
 17:10|17:35|Apurva Narechania|What do we gain when tolerating loss? The information bottleneck, lossy compression, and detecting horizontal gene transfer
 17:35|18:00|Wenbin Guo|3D RNA-seq - a powerful and flexible tool for rapid and accurate differential expression and alternative splicing analysis of RNA-seq data for biologists
 
