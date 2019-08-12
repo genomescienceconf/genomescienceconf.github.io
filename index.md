@@ -12,9 +12,9 @@ bigimg: img/edinburgh.png
 
 ### [Register now](http://genomescience.co.uk/register/)
 
-### ABSTRACT SUBMISSION DEADLINE - 15th JULY
+### REGISTRATION DEADLINE - 19th August
 
-### REGISTRATION DEADLINE - 1st August
+### [Full programme announced](http://genomescience.co.uk/programme/)
 
 Genome Science 2019 is delighted to announce our amazing keynote speakers
 * __Dr Sarah Teichmann, Wellcome Trust Sanger Institute__
