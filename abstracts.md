@@ -8,14 +8,4 @@ bigimg: https://genomescienceconf.github.io/img/edinburgh.png
 
 # Genome Science 2019
 
-Abstracts are invited for both talks and posters - or both! Please choose your [preferred session](http://genomescience.co.uk/programme/).
-
-# [submit abstract](https://genome2019.exordo.com)
-
-## ABSTRACT DEADLINE IS 15th JULY 2019
-
-Our intention is to accept all abstracts for either a talk or a poster, though if we are inundated then we might not be able to.
-
-Please also [register](http://genomescience.co.uk/register/) - __abstracts for people who have not registered will not be considerd__
-
-We look forward to hearing from you!
+Abstract submission is now closed
