@@ -59,7 +59,7 @@ __Time__|__A__|__B__
 11:15|11:40|Sian Ellard|Application of genomic sequencing technology to the diagnosis of rare diseases: from the 100,000 Genomes Project to a nationally commissioned Genomic Medicine Service
 11:40|11:55|Ben Harvey (Agilent)|Agilent’s workflow solutions for the clinical genomics laboratory
 11:55|12:20|Mike Inouye|The utility of polygenic risk scores for cardiovascular disease
-12:20|12:35|Fluidigm|Fluidigm
+12:20|12:35|Nick Jordan (Fluidigm)|The Juno System: Automated and cost-effective NGS workflows leveraging Fluidigm microfluidic technology
 12:35|12:50|Sergey Koren|Telomere-to-telomere assembly of complete human chromosomes
 12:50|13:05|Giordano Bottà|Integration of Polygenic Risk Score in CAD risk models for clinical use
 13:05|13:15|Alexandra Martin (Stilla)|Crystal digital PCR™ – The next generation 
