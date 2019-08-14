@@ -23,9 +23,9 @@ __Start__|__End__|__Who__|__Title__
 *16:10*|*16:40*|*Coffee*| 
 **_16:40_**|**_18:00_**|**_Evolving Technologies 2_**| 
 16:40|17:00|Rade Drmanac (BGI/Complete):|A new generation of NGS: PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR).
-17:00|17:15|Samplix|Samplix
+17:00|17:15|Marie Just Mikkelsen (Samplix)|Xdrop™ - Targeted Sequencing into the Dark and Unknown
 17:15|17:35|Tuval Ben Yehezkel (LoopSeq):|LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond
-17:35|17:45|TTP LabTech|TTP LabTech
+17:35|17:45|Klaus Hentrich (TTP LabTech)|Cost-effective miniaturised NGS library preparation using positive-displacement liquid handling technology
 17:45|18:00|Mike Quail|PacBio Sequel II, 8M and tree of life
 **_18:00_**|**_19:30_**|**_Wine, snacks, and posters_**|
 
@@ -52,8 +52,8 @@ __Time__|__A__|__B__
 09:00|09:20|Emily Humble|Scimitar-horned oryx conservation genomics
 09:20|09:40|Rachel Gilroy|The broiler chicken intestinal microbiome: interventions to improve health and welfare
 09:40|09:55|Jon Rock (Lexogen)|Improving the quality of your RNA Next Generation Sequencing with Lexogen
-09:55|10:15|Matthew Parker|Increasing recombination in the barley (Hordeum vulgare) by manipulating meiotic genes
-10:15|10:35|Miriam Schreiber|Direct RNA Sequencing of the Arabidopsis transcriptome with Nanopores
+09:55|10:15|Matthew Parker|Direct RNA Sequencing of the Arabidopsis transcriptome with Nanopores
+10:15|10:35|Miriam Schreiber|Increasing recombination in the barley (Hordeum vulgare) by manipulating meiotic genes
 *10:40*|*11:15*|*Coffee*|
 **_11:15_**|**_13:15_**|**_Clinical Genomics_**| 
 11:15|11:35|Sian Ellard|Application of genomic sequencing technology to the diagnosis of rare diseases: from the 100,000 Genomes Project to a nationally commissioned Genomic Medicine Service
@@ -62,12 +62,12 @@ __Time__|__A__|__B__
 12:10|12:25|Fluidigm|Fluidigm
 12:25|12:45|Sergey Koren|Telomere-to-telomere assembly of complete human chromosomes
 12:45|13:05|Giordano Bottà|Integration of Polygenic Risk Score in CAD risk models for clinical use
-13:05|13:15|Stilla|Stilla
+13:05|13:15|Alexandra Martin (Stilla)|Crystal digital PCR™ – The next generation 
 *13:15*|*14:15*|*Lunch*|
 **_14:15_**|**_16:00_**|**_Developmental Biology_**| 
 14:15|14:40|Alistair McGregor|Investigating the developmental consequences of whole genome duplication in arachnids
 14:40|15:05|Mansi Srivastava|Acoel genome reveals the regulatory landscape for whole-body regeneration
-15:05|15:15|Qiagen|Qiagen
+15:05|15:15|Brennan Martin (Qiagen)|QIAGEN Solutions for Developmental Biology
 15:15|15:35|Tamir Chandra|Mouse embryonic stem cells switch from naïve to formative state during transition through G2M
 15:35|15:55|Laura Mincarelli|Combined short and long read single-cell sequencing identify aging related transcriptional profile and splicing landscape in hematopoietic stem cells and progenitors
 *15:55*|*16:20*|*Coffee*|
@@ -119,13 +119,13 @@ __Time__|__A__|__B__
 **Start**|**End**|**Who**|**Title**
 -----|-----|-----|-----
 **_09:00_**|**_11:00_**|**_Single Cell Genomics_**| 
-09:00|09:20|Iain Macaulay|Molecular biology, including long reads for scRNA-seq
-09:20|09:40|Martin Hemberg|Bioinformatics for scRNA-seq
-09:40|09:55|10X Genomics| 
-09:55|10:10|Daniel Liber (Takara)|What are you missing from your single cell RNA-seq? Go beyond gene expression with the ICELL8 Single-Cell System!
-10:10|10:20|Zhouchun Shang (MGI/BGI)|Dissecting cell heterogeneity using single-cell omics powered by DNBSEQ
-10:20|10:40|Kristina Kirschner|Single cell Sequencing reveals Notch mediated secondary senescence
-10:40|11:00|Daniel Seaton|Mapping the functions of human disease risk alleles during neuronal development using multiplexed differentiation of human induced pluripotent stem cells
+09:00|09:25|Iain Macaulay|Isoform Sequencing in Single Cells
+09:25|09:40|Stephen Hague (10X Genomics)| From Single Cell Genomics to Multi-Omics
+09:40|10:05|Martin Hemberg|Searching large collections of single cell data using scfind
+10:05|10:20|Daniel Liber (Takara)|What are you missing from your single cell RNA-seq? Go beyond gene expression with the ICELL8 Single-Cell System!
+10:20|10:35|Kristina Kirschner|Single cell Sequencing reveals Notch mediated secondary senescence
+10:35|10:50|Zhouchun Shang (MGI/BGI)|Dissecting cell heterogeneity using single-cell omics powered by DNBSEQ
+10:50|11:05|Daniel Seaton|Mapping the functions of human disease risk alleles during neuronal development using multiplexed differentiation of human induced pluripotent stem cells
 *11:00*|*11:30*|*Coffee*| 
 11:30|12:20|**Keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
 12:20|13:10|**Keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
