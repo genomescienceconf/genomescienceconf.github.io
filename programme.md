@@ -49,19 +49,19 @@ __Time__|__A__|__B__
 **Start**|**End**|**Who**|**Title**
 -------|-------|-------|-------
 **_09:00_**|**_10:40_**|**_Plant and animal genomics_**| 
-09:00|09:20|Emily Humble|Scimitar-horned oryx conservation genomics
-09:20|09:40|Rachel Gilroy|The broiler chicken intestinal microbiome: interventions to improve health and welfare
-09:40|09:55|Jon Rock (Lexogen)|Improving the quality of your RNA Next Generation Sequencing with Lexogen
-09:55|10:15|Matthew Parker|Direct RNA Sequencing of the Arabidopsis transcriptome with Nanopores
-10:15|10:35|Miriam Schreiber|Increasing recombination in the barley (Hordeum vulgare) by manipulating meiotic genes
+09:00|09:25|Emily Humble|Scimitar-horned oryx conservation genomics
+09:25|09:50|Rachel Gilroy|The broiler chicken intestinal microbiome: interventions to improve health and welfare
+09:50|10:05|Jon Rock (Lexogen)|Improving the quality of your RNA Next Generation Sequencing with Lexogen
+10:05|10:20|Matthew Parker|Direct RNA Sequencing of the Arabidopsis transcriptome with Nanopores
+10:20|10:35|Miriam Schreiber|Increasing recombination in the barley (Hordeum vulgare) by manipulating meiotic genes
 *10:40*|*11:15*|*Coffee*|
 **_11:15_**|**_13:15_**|**_Clinical Genomics_**| 
-11:15|11:35|Sian Ellard|Application of genomic sequencing technology to the diagnosis of rare diseases: from the 100,000 Genomes Project to a nationally commissioned Genomic Medicine Service
-11:35|11:50|Ben Harvey (Agilent)|Agilent’s workflow solutions for the clinical genomics laboratory
-11:50|12:10|Mike Inouye|The utility of polygenic risk scores for cardiovascular disease
-12:10|12:25|Fluidigm|Fluidigm
-12:25|12:45|Sergey Koren|Telomere-to-telomere assembly of complete human chromosomes
-12:45|13:05|Giordano Bottà|Integration of Polygenic Risk Score in CAD risk models for clinical use
+11:15|11:40|Sian Ellard|Application of genomic sequencing technology to the diagnosis of rare diseases: from the 100,000 Genomes Project to a nationally commissioned Genomic Medicine Service
+11:40|11:55|Ben Harvey (Agilent)|Agilent’s workflow solutions for the clinical genomics laboratory
+11:55|12:20|Mike Inouye|The utility of polygenic risk scores for cardiovascular disease
+12:20|12:35|Fluidigm|Fluidigm
+12:35|12:50|Sergey Koren|Telomere-to-telomere assembly of complete human chromosomes
+12:50|13:05|Giordano Bottà|Integration of Polygenic Risk Score in CAD risk models for clinical use
 13:05|13:15|Alexandra Martin (Stilla)|Crystal digital PCR™ – The next generation 
 *13:15*|*14:15*|*Lunch*|
 **_14:15_**|**_16:00_**|**_Developmental Biology_**| 
@@ -126,7 +126,7 @@ __Time__|__A__|__B__
 10:20|10:35|Kristina Kirschner|Single cell Sequencing reveals Notch mediated secondary senescence
 10:35|10:50|Zhouchun Shang (MGI/BGI)|Dissecting cell heterogeneity using single-cell omics powered by DNBSEQ
 10:50|11:05|Daniel Seaton|Mapping the functions of human disease risk alleles during neuronal development using multiplexed differentiation of human induced pluripotent stem cells
-*11:00*|*11:30*|*Coffee*| 
+*11:05*|*11:30*|*Coffee*| 
 11:30|12:20|**Keynote:** Jane Carlton|Bringing genomics into malaria field studies in India
 12:20|13:10|**Keynote:** Kirsten Bos|Genomic reconstructions of ancient pathogens
 **_13:10_**|**_THE END_**| |**_Packed lunch available_**
