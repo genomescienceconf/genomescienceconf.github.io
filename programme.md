@@ -18,7 +18,7 @@ __Start__|__End__|__Who__|__Title__
 14:40|15:00|Clive Brown (Oxford Nanopore)|The latest from Nanopore sequencing
 15:00|15:20|Vince Smith (Illumina)|Advances in sequencing technology that are transforming genomics
 15:20|15:35|Louise Williams (New England BioLabs)|New England BioLabs
-15:35|15:45|BioNano|BioNano
+15:35|15:45|Yannick Delpu (BioNano)|Next-Generation Cytogenomics: High-throughput Mapping of Structural Variation in Genetic Disease and Clinical Oncology
 15:45|16:10|Omer Bayraktar|The Rise of Spatial Genomics
 *16:10*|*16:40*|*Coffee*| 
 **_16:40_**|**_18:00_**|**_Evolving Technologies 2_**| 
