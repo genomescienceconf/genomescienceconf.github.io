@@ -26,7 +26,7 @@ __Start__|__End__|__Who__|__Title__
 17:00|17:15|Marie Just Mikkelsen (Samplix)|Xdrop™ - Targeted Sequencing into the Dark and Unknown
 17:15|17:35|Tuval Ben Yehezkel (LoopSeq):|LoopSeq Synthetic Long Read Sequencing and Its Applications: from Microbiome to Transcriptome and Beyond
 17:35|17:45|Klaus Hentrich (TTP LabTech)|Cost-effective miniaturised NGS library preparation using positive-displacement liquid handling technology
-17:45|18:00|Mike Quail|PacBio Sequel II, 8M and tree of life
+17:45|18:00|Mike Quail|PacBio comes of age
 **_18:00_**|**_19:30_**|**_Wine, snacks, and posters_**|
 
 ---
