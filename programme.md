@@ -85,7 +85,7 @@ __Time__|__A__|__B__
 -----|-----|-----|-----
 **_09:00_**|**_10:40_**|**_Evolutionary genomics_**| 
 09:00|09:25|Reuben Nowell|Genome evolution in the bdelloid rotifers: ancient asexuality and genome structure
-09:25|09:50|Pramod Shinde|Impact of mitochondrial epistatic interactions on evolution of different human subpopulations
+09:25|09:50|Alejandro Sanchez-Flores|Omics of the fish-tongue-eating parasitic isopod Cymothoa exigua
 09:50|10:15|Max Stammnitz|Tracing the evolution of two transmissible cancers in Tasmanian devils
 10:15|10:40|Fiona Jane Whelan|The coincident (co-occurrence and avoidance) relationships of genes in prokaryote genomes
 *10:40*|*11:15*|*Coffee*|
