@@ -21,7 +21,7 @@ __Start__|__End__|__Who__|__Title__
 15:35|15:50|Matt Loose|Long Read Club - the future is very long reads indeed
 15:50|16:00|Yannick Delpu (BioNano)|Next-Generation Cytogenomics: High-throughput Mapping of Structural Variation in Genetic Disease and Clinical Oncology
 *16:00*|*16:25*|*Coffee*| 
-**_16:25_**|**_18:19_**|**_Evolving Technologies 2_**| 
+**_16:25_**|**_18:10_**|**_Evolving Technologies 2_**| 
 16:25|16:50|Omer Bayraktar|The Rise of Spatial Genomics
 16:50|17:10|Rade Drmanac (BGI/Complete):|A new generation of NGS: PCR free DNBseq + CoolNGS chemistry with unlabeled nucleotides + Single-tube unique cobarcoding (stLFR).
 17:10|17:25|Marie Just Mikkelsen (Samplix)|Xdrop™ - Targeted Sequencing into the Dark and Unknown
