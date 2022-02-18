@@ -3,7 +3,7 @@ layout: page
 title: Genome Science
 subtitle: Birmingham, dates TBC
 use-site-title: true
-bigimg: https://genomescienceconf.github.io/img/birmingham.png
+bigimg: https://genomescienceconf.github.io/img/birmingham.jpg
 ---
 
 # Organisers and Session Chairs
