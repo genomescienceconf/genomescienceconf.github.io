@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Genome Science
-subtitle: Edinburgh, 3rd to 5th September 2019
+subtitle: Birmingham, dates TBC
 use-site-title: true
-bigimg: https://genomescienceconf.github.io/img/edinburgh.png
+bigimg: https://genomescienceconf.github.io/img/birmingham.png
 ---
 
 # Organisers and Session Chairs
  
-* Mick Watson, The Roslin Institute and Edinburgh Genomics
-* Phil Ellis, Edinburgh Genomics
-* Liz Brown, University of Edinburgh
+* Mick Watson, The Roslin Institute
 * Aziz Aboobaker , University of Oxford
 * Kate Baker, University of Liverpool
 * Christine Hertz-Fowler, University of Liverpool
