@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Genome Science
-subtitle: Edinburgh, 3rd to 5th September 2019
+subtitle: Birmingham, dates tbc
 use-site-title: true
-bigimg: img/edinburgh.png
+bigimg: img/birmingham.jpg
 ---
 
 # Genome Science 2022
