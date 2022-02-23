@@ -12,4 +12,9 @@ bigimg: img/birmingham.jpg
 
 Follow updates with hashtag [#genomescience2022](https://twitter.com/search?q=%23GenomeScience2022)
 
-In 2022, Genome Science will be held in the historic and beautiful city of Birmingham.  Dates to be confirmed!
+We are currently polling our community to gauge interest in attending Genome Science 2022, which we propose as an in-person meeting in Birmingham this summer.
+
+We would be very grateful if you could fill out the [poll linked here](https://forms.gle/JHgVBWXSrtdKBw7x9[forms.gle])
+
+
+
