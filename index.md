@@ -1,10 +1,8 @@
 ---
-layout: page
-title: Genome Science
-subtitle: Birmingham, dates tbc
-use-site-title: true
-bigimg: img/birmingham.jpg
+layout: forward
+target: https://bristol.genomescience.org.uk/
 ---
+
 
 # Genome Science 2022
   
